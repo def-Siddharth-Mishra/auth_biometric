@@ -45,3 +45,11 @@ Follow these steps to get the project up and running on your local machine:
 * **Local Authentication Only:** This implementation focuses solely on local device authentication using biometrics. It does not include integration with a remote server or a backend authentication system.
 * **Basic UI:** The user interface is kept minimal to highlight the core biometric authentication functionality. Further UI enhancements would be required for a production-ready application.
 * **No Fallback Methods Implemented (e.g., PIN/Password):** For simplicity, this version does not include alternative authentication methods like PIN or password fallback in case biometric authentication fails or is not preferred.
+
+## Screenshots
+
+Below are some screenshots of the application:
+
+![Login Screen](screenshots/1.jpeg)
+![Biometric Prompt](screenshots/2.jpeg)
+
