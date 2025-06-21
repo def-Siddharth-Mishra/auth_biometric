@@ -48,8 +48,7 @@ Follow these steps to get the project up and running on your local machine:
 
 ## Screenshots
 
-Below are some screenshots of the application:
+![Screenshot 1](./screenshots/1.jpeg)
+![Screenshot 2](./screenshots/2.jpeg)
 
-![Login Screen](screenshots/1.jpeg)
-![Biometric Prompt](screenshots/2.jpeg)
 
