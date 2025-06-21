@@ -16,7 +16,7 @@ Follow these steps to get the project up and running on your local machine:
 1.  **Clone the Repository:**
     Open your terminal or command prompt and run:
     ```bash
-    git clone [https://github.com/def-Siddharth-Mishra/auth_biometric.git](https://github.com/def-Siddharth-Mishra/auth_biometric.git)
+    git clone https://github.com/def-Siddharth-Mishra/auth_biometric.git
     ```
 2.  **Navigate to the Project Directory:**
     ```bash
